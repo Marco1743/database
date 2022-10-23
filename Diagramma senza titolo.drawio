@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T11:40:45.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_RuISv5vIMOCq44Bdgw8" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T15:00:36.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="JiLVgA-D6QfpjfyDbT-K" version="20.5.1" type="github">
   <diagram id="twtDGOkDDeWTXfJo2WEe" name="Pagina-1">
-    <mxGraphModel dx="1730" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -407,10 +407,10 @@
         <mxCell id="lFU9aHFmeo7tbWC6slsu-145" value="fa un" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="646" y="425" width="67.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="lFU9aHFmeo7tbWC6slsu-148" value="(0,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="lFU9aHFmeo7tbWC6slsu-148" value="(0,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="675" y="405" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lFU9aHFmeo7tbWC6slsu-149" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="lFU9aHFmeo7tbWC6slsu-149" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="607.5" y="440" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lFU9aHFmeo7tbWC6slsu-150" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
